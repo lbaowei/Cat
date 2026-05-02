@@ -38,6 +38,7 @@ Install dependencies per script from the `scripts/requirements/` directory:
 #### Cat gallery.
 ___
 #### Sitting Cat gallery.
+
 |<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_$_$.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_0.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_1.jpg" width="200" />|
 |:--:|:--:|:--:|
 |[$_$](cats/cat_sitting_$_$.png)|[0](cats/cat_sitting_0.png)|[1](cats/cat_sitting_1.png)|
@@ -130,45 +131,45 @@ ___
 |:--:|:--:|:--:|
 |[move-in_martin](cats/cat_sitting_move-in_martin.png)|[notvampire](cats/cat_sitting_notvampire.png)|[oof](cats/cat_sitting_oof.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_patrick.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_pepe.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_plankton.jpg" width="200" />|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_otter.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_patrick.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_pepe.jpg" width="200" />|
 |:--:|:--:|:--:|
-|[patrick](cats/cat_sitting_patrick.png)|[pepe](cats/cat_sitting_pepe.png)|[plankton](cats/cat_sitting_plankton.png)|
+|[otter](cats/cat_sitting_otter.png)|[patrick](cats/cat_sitting_patrick.png)|[pepe](cats/cat_sitting_pepe.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_round_glasses.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sad.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_scream.jpg" width="200" />|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_plankton.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_round_glasses.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sad.jpg" width="200" />|
 |:--:|:--:|:--:|
-|[round_glasses](cats/cat_sitting_round_glasses.png)|[sad](cats/cat_sitting_sad.png)|[scream](cats/cat_sitting_scream.png)|
+|[plankton](cats/cat_sitting_plankton.png)|[round_glasses](cats/cat_sitting_round_glasses.png)|[sad](cats/cat_sitting_sad.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sharingan.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_shocked.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sick.jpg" width="200" />|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_scream.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sharingan.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_shocked.jpg" width="200" />|
 |:--:|:--:|:--:|
-|[sharingan](cats/cat_sitting_sharingan.png)|[shocked](cats/cat_sitting_shocked.png)|[sick](cats/cat_sitting_sick.png)|
+|[scream](cats/cat_sitting_scream.png)|[sharingan](cats/cat_sitting_sharingan.png)|[shocked](cats/cat_sitting_shocked.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sideeye.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_skull.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_smug.jpg" width="200" />|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sick.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sideeye.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_skull.jpg" width="200" />|
 |:--:|:--:|:--:|
-|[sideeye](cats/cat_sitting_sideeye.png)|[skull](cats/cat_sitting_skull.png)|[smug](cats/cat_sitting_smug.png)|
+|[sick](cats/cat_sitting_sick.png)|[sideeye](cats/cat_sitting_sideeye.png)|[skull](cats/cat_sitting_skull.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_son_of_cat.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_spidermeoww.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_squidward.jpg" width="200" />|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_smug.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_son_of_cat.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_spidermeoww.jpg" width="200" />|
 |:--:|:--:|:--:|
-|[son_of_cat](cats/cat_sitting_son_of_cat.png)|[spidermeoww](cats/cat_sitting_spidermeoww.png)|[squidward](cats/cat_sitting_squidward.png)|
+|[smug](cats/cat_sitting_smug.png)|[son_of_cat](cats/cat_sitting_son_of_cat.png)|[spidermeoww](cats/cat_sitting_spidermeoww.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_stand-up_stacey.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_stare.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sukuna.jpg" width="200" />|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_squidward.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_stand-up_stacey.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_stare.jpg" width="200" />|
 |:--:|:--:|:--:|
-|[stand-up_stacey](cats/cat_sitting_stand-up_stacey.png)|[stare](cats/cat_sitting_stare.png)|[sukuna](cats/cat_sitting_sukuna.png)|
+|[squidward](cats/cat_sitting_squidward.png)|[stand-up_stacey](cats/cat_sitting_stand-up_stacey.png)|[stare](cats/cat_sitting_stare.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_surprised.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tf2pyro.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tired.jpg" width="200" />|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_sukuna.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_surprised.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tf2pyro.jpg" width="200" />|
 |:--:|:--:|:--:|
-|[surprised](cats/cat_sitting_surprised.png)|[tf2pyro](cats/cat_sitting_tf2pyro.png)|[tired](cats/cat_sitting_tired.png)|
+|[sukuna](cats/cat_sitting_sukuna.png)|[surprised](cats/cat_sitting_surprised.png)|[tf2pyro](cats/cat_sitting_tf2pyro.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tobi.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tobi_mask.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tomodachi.jpg" width="200" />|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tired.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tobi.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tobi_mask.jpg" width="200" />|
 |:--:|:--:|:--:|
-|[tobi](cats/cat_sitting_tobi.png)|[tobi_mask](cats/cat_sitting_tobi_mask.png)|[tomodachi](cats/cat_sitting_tomodachi.png)|
+|[tired](cats/cat_sitting_tired.png)|[tobi](cats/cat_sitting_tobi.png)|[tobi_mask](cats/cat_sitting_tobi_mask.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_unamused.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_unamused2.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_uwu.jpg" width="200" />|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_tomodachi.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_unamused.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_unamused2.jpg" width="200" />|
 |:--:|:--:|:--:|
-|[unamused](cats/cat_sitting_unamused.png)|[unamused2](cats/cat_sitting_unamused2.png)|[uwu](cats/cat_sitting_uwu.png)|
+|[tomodachi](cats/cat_sitting_tomodachi.png)|[unamused](cats/cat_sitting_unamused.png)|[unamused2](cats/cat_sitting_unamused2.png)|
 
-|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_vampire.jpg" width="200" />|
-|:--:|
-|[vampire](cats/cat_sitting_vampire.png)|
+|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_uwu.jpg" width="200" />|<img loading="lazy" src="scripts/misc/jpeg_cats/cat_sitting_vampire.jpg" width="200" />|
+|:--:|:--:|
+|[uwu](cats/cat_sitting_uwu.png)|[vampire](cats/cat_sitting_vampire.png)|
 ___
 #### Standing Cat gallery.
 
